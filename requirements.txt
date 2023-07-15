@@ -1,0 +1,6 @@
+argparse
+opencv-python
+numpy
+tensorflow
+scikit-learn
+tensorflow-datasets
